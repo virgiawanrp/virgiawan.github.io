@@ -10,9 +10,9 @@ body {
     font-size: 25px;
     text-align: center;
     font-family: "RetroFont", sans-serif;
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 15px grey, 0 0 5px darkgray; 
-    background-color: rgb(58, 61, 60);
+    color: #b0c4de; 
+    text-shadow: 1px 1px 2px black, 0 0 15px #4682b4, 0 0 5px #7b68ee; 
+    background-color: rgb(15, 15, 15); 
     letter-spacing: 6px;
     height: 100vh; 
     display: flex;
